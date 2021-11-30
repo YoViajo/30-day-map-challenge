@@ -1,7 +1,9 @@
-# 30-day-map-challenge
-Un repositorio de mi participación en el #30DayMapChallenge del 2021
+# 🌍 Desafío de Mapa de 30 Días (30 Day Map Challenge) 2021
 
+Este repositorio almacena mis contribuciones y algún código al #30DayMapChallenge del año 2021.
+En la preparación de los mapas se utilizó diferentes herramientas (en orden de importancia): QGIS, R, PDF Map Maker 
 
+> El [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) sigue las guías definidas por Topi Tjukanov
 
 ---
 
