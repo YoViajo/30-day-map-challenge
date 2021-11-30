@@ -35,7 +35,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 22: Límites]  |  ![](contribuciones/d22.png)
 [Día 23: GHSL]  |  ![](contribuciones/d23.png)
 [Día 24: Mapa histórico]  |  ![](contribuciones/d24.jpeg)
-[Día 25: Mapa interactivo]  |  ![](contribuciones/d25.jpeg)
+[Día 25: Mapa interactivo](bit.ly/3CKwCEt)  |  ![](contribuciones/d25.jpeg)
 [Día 26: Mapa coroplético]  |  ![](contribuciones/d26.png)
 [Día 27: Mapa de calor]  |  ![](contribuciones/d27.png)
 [Día 28: La Tierra no es plana]  |  ![](contribuciones/d28.jpeg)
