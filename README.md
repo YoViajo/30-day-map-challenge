@@ -28,7 +28,7 @@ Un repositorio de mi participación en el #30DayMapChallenge del 2021
 [Día 17: Tierra]()  |  ![](contribuciones/d17.png)
 [Día 18: Agua]()  |  ![](contribuciones/d18.png)
 [Día 19: Isla]()  |  ![](contribuciones/d19.png)
-[Día 20: Movimiento]()  |  ![](contribuciones/d20.mp4)
+[Día 20: Movimiento]()  |  ![](contribuciones/d20.png)
 [Día 21: Elevación](notebooks/20_Movement.ipynb)  |  ![](contribuciones/d21.png)
 [Día 22: Límites](notebooks/20_Movement.ipynb)  |  ![](contribuciones/d22.png)
 [Día 23: GHSL](notebooks/20_Movement.ipynb)  |  ![](contribuciones/d23.png)
