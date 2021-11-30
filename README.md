@@ -30,7 +30,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 17: Tierra]  |  ![](contribuciones/d17.png)
 [Día 18: Agua]  |  ![](contribuciones/d18.png)
 [Día 19: Isla]  |  ![](contribuciones/d19.png)
-[Día 20: Movimiento]  |  ![](contribuciones/d20.png)
+[Día 20: Movimiento](contribuciones/bol_sismos.gif)  |  ![](contribuciones/d20.png)
 [Día 21: Elevación]  |  ![](contribuciones/d21.png)
 [Día 22: Límites]  |  ![](contribuciones/d22.png)
 [Día 23: GHSL]  |  ![](contribuciones/d23.png)
