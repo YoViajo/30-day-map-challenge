@@ -21,7 +21,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 8: Azul]()  |  ![](contribuciones/d08.png)
 [Día 9: Monócromo]()  |  ![](contribuciones/d09.png)
 [Día 10: Ráster]()  |  ![](contribuciones/d10.png)
-[Día 11: 3D]()  |  ![](contribuciones/d11.png)
+[Día 11: 3D](codigo/d11/sajama_raytracing.R)  |  ![](contribuciones/d11.png)
 [Día 12: Población]()  |  ![](contribuciones/d12.png)
 [Día 13: Natural Earth]()  |  ![](contribuciones/d13.jpeg)
 [Día 14: Nueva herramienta]()  |  ![](contribuciones/d14.png)
