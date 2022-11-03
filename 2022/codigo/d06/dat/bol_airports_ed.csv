@@ -1,0 +1,25 @@
+fid,Airport_ID,Name,City,Country,IATA,ICAO,Latitude,Longitude,Altitude,Timezone,DST,Tz_database_time zone,Type,Source
+"2622","2758",Bermejo Airport,Bermejo,Bolivia,BJO,SLBJ,-22.7733001709,-64.3128967285,"1249","-4",U,America/La_Paz,airport,OurAirports
+"2623","2759",Jorge Wilsterman International Airport,Cochabamba,Bolivia,CBB,SLCB,-17.4211006164551,-66.1771011352539,"8360","-4",U,America/La_Paz,airport,OurAirports
+"2624","2760",Chimore Airport,Chapacura,Bolivia,CCA,SLCH,-16.976834,-65.145568,"875","-4",U,America/La_Paz,airport,OurAirports
+"2625","2761",Capitán Aníbal Arab Airport,Cobija,Bolivia,CIJ,SLCO,-11.0403995514,-68.7829971313,"889","-4",U,America/La_Paz,airport,OurAirports
+"2626","2762",El Alto International Airport,La Paz,Bolivia,LPB,SLLP,-16.5132999420166,-68.1922988891602,"13355","-4",U,America/La_Paz,airport,OurAirports
+"2627","2763",Juan Mendoza Airport,Oruro,Bolivia,ORU,SLOR,-17.962600708,-67.0762023926,"12152","-4",U,America/La_Paz,airport,OurAirports
+"2628","2764",Capitan Nicolas Rojas Airport,Potosi,Bolivia,POI,SLPO,-19.5431003571,-65.7237014771,"12913","-4",U,America/La_Paz,airport,OurAirports
+"2629","2765",Capitán Av. Salvador Ogaya G. airport,Puerto Suarez,Bolivia,PSZ,SLPS,-18.975301,-57.820599,"440","-4",U,America/La_Paz,airport,OurAirports
+"2630","2766",Santa Ana Del Yacuma Airport,Santa Ana,Bolivia,SBL,SLSA,-13.7622003555,-65.4352035522,"472","-4",U,America/La_Paz,airport,OurAirports
+"2631","2767",Juana Azurduy De Padilla Airport,Sucre,Bolivia,SRE,SLSU,-19.0070991516113,-65.2886962890625,"9540","-4",U,America/La_Paz,airport,OurAirports
+"2632","2768",Capitan Oriel Lea Plaza Airport,Tarija,Bolivia,TJA,SLTJ,-21.5557003021,-64.7013015747,"6079","-4",U,America/La_Paz,airport,OurAirports
+"2633","2769",Teniente Av. Jorge Henrich Arauz Airport,Trinidad,Bolivia,TDD,SLTR,-14.8186998367,-64.9179992676,"509","-4",U,America/La_Paz,airport,OurAirports
+"2634","2770",Teniente Coronel Rafael Pabón Airport,Villa Montes,Bolivia,VLM,SLVM,-21.2551994324,-63.4056015015,"1305","-4",U,America/La_Paz,airport,OurAirports
+"2635","2771",Viru Viru International Airport,Santa Cruz,Bolivia,VVI,SLVR,-17.6448,-63.135399,"1224","-4",U,America/La_Paz,airport,OurAirports
+"2636","2772",Yacuiba Airport,Yacuiba,Bolivia,BYC,SLYA,-21.9608993530273,-63.6516990661621,"2112","-4",U,America/La_Paz,airport,OurAirports
+"4002","4247",El Trompillo Airport,Santa Cruz,Bolivia,SRZ,SLET,-17.8115997314,-63.1715011597,"1371","-4",U,America/La_Paz,airport,OurAirports
+"4700","6056",Capitán de Av. Emilio Beltrán Airport,Guayaramerín,Bolivia,GYA,SLGY,-10.820599556,-65.3455963135,"557","-4",U,America/La_Paz,airport,OurAirports
+"4701","6057",Puerto Rico Airport,Puerto Rico/Manuripi,Bolivia,PUR,SLPR,-11.107663,-67.551155,"597","-4",U,America/La_Paz,airport,OurAirports
+"4702","6058",Capitán Av. Selin Zeitun Lopez Airport,Riberalta,Bolivia,RIB,SLRI,-11,-66,"462","-4",U,America/La_Paz,airport,OurAirports
+"4703","6059",Reyes Airport,Reyes,Bolivia,REY,SLRY,-14.3044,-67.353401,"935","-4",U,America/La_Paz,airport,OurAirports
+"4704","6060",Capitán Av. German Quiroga G. Airport,San Borja,Bolivia,SRJ,SLSB,-14.8591995239258,-66.7375030517578,"633","-4",U,America/La_Paz,airport,OurAirports
+"5500","7313",Uyuni Airport,Uyuni,Bolivia,UYU,SLUY,-20.4463005066,-66.8483963013,"11136","-4",U,America/La_Paz,airport,OurAirports
+"5501","7317",Rurenabaque Airport,Rerrenabaque,Bolivia,RBQ,SLRQ,-14.4279003143,-67.4968032837,"676","-4",U,America/La_Paz,airport,OurAirports
+"6421","8969",Copacabana Airport,Copacabana,Bolivia,\N,SLCC,-16.1910991668701,-69.0955963134766,"12591","-4",U,America/La_Paz,airport,OurAirports
