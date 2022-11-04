@@ -13,9 +13,9 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 :-------------------------:|:-------------------------:
 [Día 1: Puntos]  |  ![](contribuciones/d01.png)
 [Día 2: Líneas]  |  ![](contribuciones/d02.png)
-[Día 3: Polígonos]  |  ![](contribuciones/d03.png)
-[Día 4: Viernes color: Verde]  |  ![](contribuciones/d04.png)
-[Día 5: Ucrania]  |  ![](contribuciones/d05.png)
+[Día 3: Polígonos]  |  ![](contribuciones/d03.jpg)
+[Día 4: Viernes color: Verde]  |  ![](contribuciones/d04.jpg)
+[Día 5: Ucrania]  |  ![](contribuciones/d05.jpg)
 [Día 6: Red](codigo/d06/bol_flight_connection_map_gral.R)  |  ![](contribuciones/d06.png)
 [Día 7: Ráster]  |  ![](contribuciones/d07.png)
 [Día 8: Datos: OpenStreetMap]  |  ![](contribuciones/d08.png)
