@@ -21,7 +21,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 8: Datos: OpenStreetMap]  |  ![](contribuciones/d08.png)
 [Día 9: Espacio]  |  ![](contribuciones/d09.png)
 [Día 10: Un mal mapa]  |  ![](contribuciones/d10.png)
-[Día 11: Viernes color: Rojo]  |  ![](contribuciones/d11.png)
+[Día 11: Viernes color: Rojo]  |  ![](contribuciones/d11.jpg)
 [Día 12: Escala]  |  ![](contribuciones/d12.png)
 [Día 13: Mapa 5 minutos]  |  ![](contribuciones/d13.jpeg)
 [Día 14: Hexágonos]  |  ![](contribuciones/d14.png)
