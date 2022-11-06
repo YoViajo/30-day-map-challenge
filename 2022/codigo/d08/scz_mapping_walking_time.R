@@ -14,8 +14,6 @@ library(osmextract)
 library(data.table)
 library(magrittr)
 
-# definir directorio de trabajo
-setwd("/home/yoviajo/Documentos/lab/geom/30dmc/mapas/d08/cod")
 
 # crear subdirectorio "data" e "img"
 dir.create(here::here("data"))
