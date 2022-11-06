@@ -18,7 +18,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 5: Ucrania]  |  ![](contribuciones/d05.jpg)
 [Día 6: Red](codigo/d06/bol_flight_connection_map_gral.R)  |  ![](contribuciones/d06.png)
 [Día 7: Ráster]  |  ![](contribuciones/d07.png)
-[Día 8: Datos: OpenStreetMap]  |  ![](contribuciones/d08.png)
+[Día 8: Datos: OpenStreetMap](codigo/d08/scz_mapping_walking_time.R)  |  ![](contribuciones/d08.jpg)
 [Día 9: Espacio]  |  ![](contribuciones/d09.png)
 [Día 10: Un mal mapa]  |  ![](contribuciones/d10.png)
 [Día 11: Viernes color: Rojo]  |  ![](contribuciones/d11.jpg)
