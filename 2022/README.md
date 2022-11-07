@@ -20,7 +20,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 7: Ráster]  |  ![](contribuciones/d07.png)
 [Día 8: Datos: OpenStreetMap](codigo/d08/scz_mapping_walking_time.R)  |  ![](contribuciones/d08.jpg)
 [Día 9: Espacio]  |  ![](contribuciones/d09.jpg)
-[Día 10: Un mapa malo]  |  ![](contribuciones/d10.png)
+[Día 10: Un mapa malo]  |  ![](contribuciones/d10.jpg)
 [Día 11: Viernes color: Rojo]  |  ![](contribuciones/d11.jpg)
 [Día 12: Escala]  |  ![](contribuciones/d12.png)
 [Día 13: Mapa 5 minutos]  |  ![](contribuciones/d13.jpeg)
