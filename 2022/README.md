@@ -22,7 +22,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 9: Espacio]  |  ![](contribuciones/d09.jpg)
 [Día 10: Un mapa malo]  |  ![](contribuciones/d10.jpg)
 [Día 11: Viernes color: Rojo]  |  ![](contribuciones/d11.jpg)
-[Día 12: Escala]  |  ![](contribuciones/d12.png)
+[Día 12: Escala]  |  ![](contribuciones/d12.jpg)
 [Día 13: Mapa 5 minutos]  |  ![](contribuciones/d13.png)
 [Día 14: Hexágonos]  |  ![](contribuciones/d14.png)
 [Día 15: Comida/bebida]  |  ![](contribuciones/d15.jpeg)
