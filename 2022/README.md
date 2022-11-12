@@ -25,7 +25,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 12: Escala]  |  ![](contribuciones/d12.jpg)
 [Día 13: Mapa 5 minutos]  |  ![](contribuciones/d13.png)
 [Día 14: Hexágonos]  |  ![](contribuciones/d14.png)
-[Día 15: Comida/bebida]  |  ![](contribuciones/d15.jpeg)
+[Día 15: Comida/bebida (mapa interactivo)](https://public.flourish.studio/visualisation/11785849/)  |  ![](contribuciones/d15.png)
 [Día 16: Mínimo]  |  ![](contribuciones/d16.png)
 [Día 17: Sin computadora]  |  ![](contribuciones/d17.png)
 [Día 18: Viernes color: Azul]  |  ![](contribuciones/d18.png)
