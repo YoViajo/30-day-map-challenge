@@ -33,7 +33,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 20: Mi...favorito (código)](codigo/d20/rcityviews.R)  |  ![](contribuciones/d20.png)
 [Día 21: Datos: Kontur population]  |  ![](contribuciones/d21.png)
 [Día 22: NULO]  |  ![](contribuciones/d22.png)
-[Día 23: Movimiento]  |  ![](contribuciones/d23.png)
+[Día 23: Movimiento]  |  ![](contribuciones/d23.gif)
 [Día 24: Fantasía]  |  ![](contribuciones/d24.jpg)
 [Día 25: Viernes color: 2 colores]  |  ![](contribuciones/d25.jpeg)
 [Día 26: Isla(s)]  |  ![](contribuciones/d26.png)
