@@ -31,7 +31,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 18: Viernes de color: Azul]  |  ![](contribuciones/d18.png)
 [Día 19: Globo (código)](codigo/d19/scz_tierra_no_es_plana.R)  |  ![](contribuciones/d19.png)
 [Día 20: Mi...favorito (código)](codigo/d20/rcityviews.R)  |  ![](contribuciones/d20.png)
-[Día 21: Datos: Kontur population]  |  ![](contribuciones/d21.png)
+[Día 21: Datos: Kontur population (código)](codigo/d21/poblac_joyplot.R)  |  ![](contribuciones/d21.png)
 [Día 22: NULO]  |  ![](contribuciones/d22.png)
 [Día 23: Movimiento]  |  ![](contribuciones/d23.gif)
 [Día 24: Fantasía]  |  ![](contribuciones/d24.jpg)
