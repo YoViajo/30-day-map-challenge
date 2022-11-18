@@ -1,5 +1,6 @@
 ##
 ## Distribución de población de Bolivia, mapa joyplot
+## Eric Armijo (@rcrmj)
 ##
 ## Adaptado de script original por @helenmakesmaps
 ## Ref: https://www.helenmakesmaps.com/post/how-to-joy-plot
