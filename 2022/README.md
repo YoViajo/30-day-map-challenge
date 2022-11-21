@@ -39,5 +39,5 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 26: Isla(s)]  |  ![](contribuciones/d26.png)
 [Día 27: Música]  |  ![](contribuciones/d27.png)
 [Día 28: 3D]  |  ![](contribuciones/d28.jpeg)
-[Día 29: Fuera de mi zona de confort]  |  ![](contribuciones/d29.png)
+[Día 29: Fuera de mi zona de confort (mapa interactivo)](https://datawrapper.dwcdn.net/Vdhu6/1/)  |  ![](contribuciones/d29.png)
 [Día 30: Remezcla (código)](codigo/d30/Bolivia_dist_centrosalud.R)  |  ![](contribuciones/d30.png)
