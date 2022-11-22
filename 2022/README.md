@@ -35,7 +35,7 @@ En la preparación de los mapas se utilizó diferentes herramientas (en orden de
 [Día 22: NULO]  |  ![](contribuciones/d22.png)
 [Día 23: Movimiento]  |  ![](contribuciones/d23.gif)
 [Día 24: Fantasía]  |  ![](contribuciones/d24.jpg)
-[Día 25: Viernes color: 2 colores]  |  ![](contribuciones/d25.jpeg)
+[Día 25: Viernes color: 2 colores]  |  ![](contribuciones/d25.png)
 [Día 26: Isla(s)]  |  ![](contribuciones/d26.png)
 [Día 27: Música]  |  ![](contribuciones/d27.png)
 [Día 28: 3D]  |  ![](contribuciones/d28.jpeg)
