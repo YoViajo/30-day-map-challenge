@@ -113,7 +113,7 @@ ggplot(grid_countries_letters) +
   )
 
 # Guardar el gráfico en el subdirectorio "salida"
-ggsave(file.path(output_dir, "sudamerica_tipografia_ajustado.png"), width = 6, height = 8.5)
+ggsave(file.path(output_dir, "sudamerica_tipografia_color.png"), width = 6, height = 8.5)
 
 # Guardar la capa actualizada (opcional)
 output_shapefile <- file.path(output_dir, "sudamerica_incluyendo_guayana_francesa.shp")
